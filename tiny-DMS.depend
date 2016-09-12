@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1453708522 source:d:\program files (x86)\codeblocks\workspace\tiny-dms\dentry.cpp
+	"Dentry.h"
+	"SuperBlock.h"
+	<vector>
+	"iostream"
+
+1453626461 d:\program files (x86)\codeblocks\workspace\tiny-dms\dentry.h
+	"Inode.h"
+	<map>
+	<string.h>
+	<utility>
+
+1453721664 d:\program files (x86)\codeblocks\workspace\tiny-dms\inode.h
+	"my_fs.h"
+
+1453728530 d:\program files (x86)\codeblocks\workspace\tiny-dms\my_fs.h
+	<list>
+	<time.h>
+	<fstream>
+	<cstddef>
+	<string.h>
+
+1453721584 d:\program files (x86)\codeblocks\workspace\tiny-dms\superblock.h
+	"my_fs.h"
+	"Dentry.h"
+	"Inode.h"
+	"User.h"
+	"Group.h"
+	<sstream>
+
+1453721271 source:d:\program files (x86)\codeblocks\workspace\tiny-dms\function.cpp
+	"SuperBlock.h"
+	<string.h>
+	<iostream>
+	<vector>
+	<sstream>
+
+1453713329 source:d:\program files (x86)\codeblocks\workspace\tiny-dms\init.cpp
+	<fstream>
+	<iostream>
+	<unistd.h>
+	"SuperBlock.h"
+	<map>
+
+1453718041 source:d:\program files (x86)\codeblocks\workspace\tiny-dms\inode.cpp
+	"Inode.h"
+	"SuperBlock.h"
+	<iostream>
+
+1453713352 source:d:\program files (x86)\codeblocks\workspace\tiny-dms\main.cpp
+	<stdio.h>
+	<iostream>
+	"SuperBlock.h"
+
+1453702079 source:d:\program files (x86)\codeblocks\workspace\tiny-dms\superblock.cpp
+	"SuperBlock.h"
+	<iostream>
+	<string.h>
+
+1453639529 source:d:\program files (x86)\codeblocks\workspace\tiny-dms\group.cpp
+	"Group.h"
+
+1453727880 d:\program files (x86)\codeblocks\workspace\tiny-dms\group.h
+	"my_fs.h"
+
+1453639707 source:d:\program files (x86)\codeblocks\workspace\tiny-dms\user.cpp
+	"User.h"
+	<iostream>
+
+1453727917 d:\program files (x86)\codeblocks\workspace\tiny-dms\user.h
+	"my_fs.h"
+
